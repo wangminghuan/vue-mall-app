@@ -1,6 +1,4 @@
-# 项目说明
-> 线上地址：https://m.newgiftmall.com  
-> 测试地址:http://m.newgiftmall.com:8001(配置host:192.168.1.66 newgiftmall.com)
+# 商城项目说明
 ### 安装依赖
 
 	npm install 
